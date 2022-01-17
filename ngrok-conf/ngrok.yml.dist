@@ -1,0 +1,8 @@
+authtoken: {|AUTH_TOKEN|}
+tunnels:
+  MY_APP: 
+    proto: http
+    addr: 80
+  MY_API:
+    proto: http
+    addr: 8080
